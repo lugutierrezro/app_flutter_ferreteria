@@ -109,3 +109,5 @@ Listado de Compras:
 2. Ejecutar `flutter pub get`
 3. Configurar conexión con la API y base de datos
 4. Ejecutar en emulador o dispositivo físico
+
+> ⚠️ **Nota:** Este proyecto fue desarrollado con fines educativos y personales. No está autorizado para uso comercial ni distribución sin permiso del autor
